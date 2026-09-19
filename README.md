@@ -1,4 +1,4 @@
-# MTF school outreach skill
+# What is this?
 
 A SKILL.md for Claude Cowork that runs cold outbound to schools end to end: research each prospect, classify what it finds, write a personalised email off that classification, and move the CRM record along. Lark Base holds the data, Gmail sends. Both go through MCP connectors.
 
