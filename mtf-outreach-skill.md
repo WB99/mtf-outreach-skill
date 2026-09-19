@@ -1,4 +1,4 @@
-# MTF school outreach
+# MTF school outreach skill
 
 Outreach to school-level Chinese Language / Mother Tongue decision-makers (HODs, Subject Heads, Lead Teachers, Principals) for [Product], an interactive Mandarin mystery-solving game for Chinese Mother Tongue Fortnight.
 
